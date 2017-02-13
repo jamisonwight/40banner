@@ -17,13 +17,13 @@ A simple CLI tool to quickly create Google Web Designer banner starter files glo
 ## Usage
 
    40BANNER will create a folder structure like this: Client/Campaign/Version/Size/GWD.</br>
-   The Google Web Designer starter files aleady have clicktags added for Doublick Manager. 
+   The Google Web Designer starter files aleady have click tags added for Doubleclick Manager. 
 
    In your terminal `cd` into your main banner directory and simply run `40banner`.
 
-   Type the name of the Client</br>
-   Type the name of the campaign or title</br>
-   Choose how many versions for the campaign</br>
+   Type the name of the Client.</br>
+   Type the name of the campaign or title.</br>
+   Choose how many versions for the campaign.</br>
 
    Choose the sizes for the campaign:
 
