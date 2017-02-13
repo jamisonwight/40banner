@@ -1,8 +1,9 @@
 {
   "name": "40banner",
-  "version": "1.0.1",
-  "description": "Simple tool for creating banner file structures and pushing to the server",
+  "version": "1.0.8",
+  "description": "Simple tool for creating banner file structures",
   "main": "index.js",
+  "logo": {"url": "./assets/40banner.png"},
   "scripts": {
     "build": "babel es6 --out-dir es5 --source-maps",
     "watch": "babel es6 --out-dir es5 --source-maps --watch",
